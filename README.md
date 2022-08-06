@@ -16,7 +16,7 @@ git clone git@github.com:roberto-laz/laravel-todo.git
 now run
 
 ```bash
- cd to-do-app && ./vendor/bin/sail up
+ cd laravel-todo && ./vendor/bin/sail up
 ```
 
 
